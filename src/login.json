@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "title": "Discover Style",
+        "description": "Implementation of technologies to store unchange data based on specific Implement of tech to store.",
+        "imageUrl": "https://img-lcwaikiki.mncdn.com/mnresize/1200/-/pim/productimages/20221/5732780/l_20221-s2ee11z8-d4n_a.jpg"
+    },
+    
+    {
+        "id": 1,
+        "title": "Explore Style",
+        "description": "Implementation of technologies to store unchange data based on specific Implement of tech to store..",
+        "imageUrl": "https://img-lcwaikiki.mncdn.com/mnresize/1024/-/pim/productimages/20221/5516443/l_20221-s23513z8-fgj_a.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Awesome Style",
+        "description": "Implementation of technologies to store unchange data based on specific Implement of tech to store..",
+        "imageUrl": "https://i.hizliresim.com/hd1wa10.png"
+      }
+    
+    
+    ]

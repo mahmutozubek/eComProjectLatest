@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "name": "William Jones",
+      "message": "Hey, how\"s it going?",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "isMessage": true,
+      "hour": "10:01 am"
+    },
+    {
+      "id": "2",
+      "name": "Maria Rodriguez",
+      "message": "I\"m good, thanks. How are you?",
+      "imageUrl": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "isMessage": true,
+      "hour": "10:15 am"
+    },
+    {
+      "id": "3",
+      "name": "John Smith",
+      "message": "Not too bad.",
+      "imageUrl": "https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "isMessage": true,
+      "hour ":"11:30 am"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "message": "Ha ha, I know what you mean. It can be a bit tedious.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "isMessage": false,
+      "hour": "12:05 pm"
+    },
+    {
+      "id": "5",
+      "name": "Michael Brown",
+      "message": "Yeah, but it\"s better than having no data at all.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "isMessage":false,
+      "hour" :"15:06 pm"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Lee",
+      "message": "Hey guys, what's up?",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "isMessage": true,
+      "hour": "04:10 pm"
+    },
+    {
+      "id": "7",
+      "name": "Daniel Kim",
+      "message": "Not much, just hanging out. How about you?",
+      "imageUrl": "https://images.unsplash.com/photo-1545996124-0501ebae84d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "isMessage": true,
+      "hour": "05:15 pm"
+    },
+    {
+      "id": "8",
+      "name": "Jessica Lee",
+      "message": "I'm doing well, thanks for asking.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "isMessage": false,
+      "hour": "06:20 pm"
+    },
+    {
+      "id": "9",
+      "name": "David Chen",
+      "message": "Hey, did you guys hear about the new product launch?",
+      "imageUrl": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "isMessage": false,
+      "hour": "07:25 pm"
+    },
+    {
+      "id": "10",
+      "name": "Karen Lee",
+      "message": "No, what new product launch?",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "isMessage": false,
+      "hour": "08:30 pm"
+    }
+]

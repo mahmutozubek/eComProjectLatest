@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "title": "Woman ",
+        
+        "imageUrl": "https://i.hizliresim.com/dfy0rp8.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Man",
+        
+        "imageUrl": "https://www.whynotmodel.com/wp-content/uploads/2022/04/atahan-whynotmodel1.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Accessories",
+        
+        "imageUrl": "https://www.fiseason.com/ince-zincir-kolye-925-gumus-8208-kolye-fi-season-17479-82-K.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Shoes",
+        
+        "imageUrl": "https://images.meesho.com/images/products/104557073/6alv5_512.jpg"
+      }
+      ,
+      {
+        "id": 4,
+        "title": "Sunglass",
+        
+        "imageUrl": "http://cdn.shopify.com/s/files/1/0426/8490/7673/products/Phillipe-Morelle-827-Sunglass_Black_3_1200x1200.jpg?v=1628061756"
+      },
+      {
+        "id": 5,
+        "title": "Belt",
+        
+        "imageUrl": "https://www.themodestman.com/wp-content/uploads/2022/03/best-mens-belts.jpg"
+      }
+    
+    
+    ]

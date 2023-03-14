@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "title": "Black T-Shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "price": "$24.99"
+    },
+    {
+      "id": 2,
+      "title": "Blue Sweater",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "price": "$54.99"
+    },
+    {
+      "id": 3,
+      "title": "Red Hat",
+      "imageUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "price":" $14.99"
+    },
+    {
+      "id": 4,
+      "title": "Sports Shoes",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1674828601362-afb73c907ebe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "price":" $79.99"
+    },
+    {
+      "id": 5,
+      "title": "Brown Jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1551854838-212c50b4c184?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBhbnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "price": "$109.99"
+    },
+    {
+      "id": 6,
+      "title": "Yellow Shorts",
+      "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "price": "$19.99"
+    },
+    {
+      "id": 7,
+      "title": "White Blouse",
+      "imageUrl": "https://images.unsplash.com/photo-1627225793904-a2f900a6e4cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "price": "$34.99"
+    },
+    {
+      "id": 8,
+      "title": "Dark Green Skirt",
+      "imageUrl": "https://images.unsplash.com/photo-1620743698514-c66c9a6c767f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2hvcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "price": "$39.99"
+    },
+    {
+      "id": 9,
+      "title": "Gray Pants",
+      "imageUrl": "https://images.unsplash.com/photo-1563970290-c009d895b853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+      "price": "$49.99"
+    },
+    {
+      "id": 10,
+      "title": "Purple Dress",
+      "imageUrl": "https://images.unsplash.com/photo-1530893609608-32a9af3aa95c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+      "price": "$89.99"
+    }
+  ]
+  
+  
+  
+  
+  
+  

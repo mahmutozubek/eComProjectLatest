@@ -1,0 +1,194 @@
+[
+    {
+      "id": 0,
+      "isFavorite": true,
+      "categories": "Popular",
+      "location": "Paris",
+      "title": "Black and White Striped Top",
+      "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 1,
+      "isFavorite": false,
+      "categories": "Latest",
+      "location": "New York",
+      "title": "Denim Jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 2,
+      "isFavorite": true,
+      "categories": "Budget",
+      "location": "London",
+      "title": "Basic White Tee",
+      "imageUrl": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 3,
+      "isFavorite": false,
+      "categories": "Popular",
+      "location": "Milan",
+      "title": "Leather Boots",
+      "imageUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 4,
+      "isFavorite": true,
+      "categories": "Trending",
+      "location": "Tokyo",
+      "title": "Pleated Skirt",
+      "imageUrl": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 5,
+      "isFavorite": false,
+      "categories": "Rated",
+      "location": "Sydney",
+      "title": "Floral Dress",
+      "imageUrl": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 6,
+      "isFavorite": true,
+      "categories": "Latest",
+      "location": "Rio de Janeiro",
+      "title": "Blue Denim Shorts",
+      "imageUrl": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 7,
+      "isFavorite": false,
+      "categories": "Budget",
+      "location": "Barcelona",
+      "title": "Basic Black Leggings",
+      "imageUrl": "https://images.unsplash.com/photo-1475180098004-ca77a66827be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 8,
+      "isFavorite": true,
+      "categories": "Popular",
+      "location": "Seoul",
+      "title": "Red Blouse",
+      "imageUrl": "https://images.unsplash.com/photo-1601762603339-fd61e28b698a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 9,
+      "isFavorite": false,
+      "categories": "Trending",
+      "location": "Los Angeles",
+      "title": "Leather Jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1588117260148-b47818741c74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 10,
+      "isFavorite": true,
+      "categories": "Rated",
+      "location": "Berlin",
+      "title": "Yellow Sundress",
+      "imageUrl": "https://images.unsplash.com/photo-1593592023995-a857ecf39076?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 11,
+      "isFavorite": false,
+      "categories": "Popular",
+      "location": "Cape Town",
+      "imageUrl":"https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+        {
+            "id": 12,
+            "isFavorite":true,
+            "categories":"Popular",
+            "location":"New York",
+            "title":"Denim Jacket",
+            "imageUrl": "https://images.unsplash.com/photo-1611824204322-24963b44d68b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTl8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 13,
+            "isFavorite":false,
+            "categories":"Trending",
+            "location":"Paris",
+            "title":"Floral Dress",
+            "imageUrl": "https://images.unsplash.com/photo-1568306281824-7afe898030d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njh8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 14,
+            "isFavorite":true,
+            "categories":"Latest",
+            "location":"London",
+            "title":"Fitted Blazer",
+            "imageUrl": "https://images.unsplash.com/photo-1596902852858-126144389ee2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 15,
+            "isFavorite":false,
+            "categories":"Reated",
+            "location":"Milan",
+            "title":"Leather Jacket",
+            "imageUrl": "https://images.unsplash.com/photo-1613552465135-e5bdaada10bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 16,
+            "isFavorite":true,
+            "categories":"Budget",
+            "location":"Tokyo",
+            "title":"Slim Fit Jeans",
+            "imageUrl": "https://images.unsplash.com/photo-1559697242-a465f2578a95?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA2fHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 17,
+            "isFavorite":false,
+            "categories":"Popular",
+            "location":"Los Angeles",
+            "title":"Leather Boots",
+            "imageUrl": "https://images.unsplash.com/photo-1597253702831-d6a6d0be4f21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI4fHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 18,
+            "isFavorite":true,
+            "categories":"Trending",
+            "location":"New York",
+            "title":"Crop Top",
+            "imageUrl": "https://images.unsplash.com/photo-1576827471288-0a8f6d6c937b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI2fHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 19,
+            "isFavorite":false,
+            "categories":"Latest",
+            "location":"Paris",
+            "title":"Wide Leg Pants",
+            "imageUrl": "https://images.unsplash.com/photo-1549062572-544a64fb0c56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQwfHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 20,
+            "isFavorite":true,
+            "categories":"Reated",
+            "location":"London",
+            "title":"Denim Skirt",
+            "imageUrl": "https://images.unsplash.com/photo-1488161628813-04466f872be2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZhc2hpb24lMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 21,
+            "isFavorite":false,
+            "categories":"Budget",
+            "location":"Milan",
+            "title":"High Waisted Shorts",
+            "imageUrl": "https://images.unsplash.com/photo-1556935383-b0f5f9ca4100?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQyfHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 22,
+            "isFavorite":true,
+            "categories":"Popular",
+            "location":"Tokyo",
+            "title":"Graphic T-Shirt",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1675129779429-31451750ab61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ1fHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+            "id": 23,
+            "isFavorite":false,
+            "categories":"Trending",
+            "location":"Los Angeles",
+            "title":"Satin Blouse",
+            "imageUrl": "https://images.unsplash.com/photo-1512646605205-78422b7c7896?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTU4fHxmYXNoaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        }
+    
+]

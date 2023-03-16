@@ -2,6 +2,7 @@ import React from 'react'
 import {View,Text,StyleSheet,Image} from 'react-native'
 import styles from './messageBox.style'
 function MessageBox({imageUrl,name,message,hour,isMessage}){
+    
     return(
         <View style ={styles.container}>
 

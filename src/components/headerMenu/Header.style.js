@@ -1,8 +1,10 @@
 import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
-    container:{flex:1,
-    height:80},
+    container:{
+    height:130,
+    
+},
     topArea:{
         justifyContent:'space-between',
         height:40,

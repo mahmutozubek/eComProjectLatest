@@ -2,16 +2,23 @@ import React from "react";
 import {View,Text,ImageBackground,Image,TouchableOpacity,Switch} from 'react-native'
 import styles from './Settings.style' 
 import Header from "../headerMenu/Header";
-function Setting(){
+function Setting({navigation}){
 
     const image ={uri:"https://i.hizliresim.com/6ep42tk.png"}
-
-
+    function navigateToShopingScreen(){
+        navigation.navigate("ShopingScreen")
+     }
+     function navigateToSideScreen(){
+        navigation.navigate("SideScreen")
+     }
+     function navigateToOnBoardingScreen(){
+        navigation.navigate("LoginScreen")
+     }
     return(
         <ImageBackground style ={styles.imageBg} source={image} resizeMode ="cover">
             
             <View style ={styles.container}>
-                 <Header header ="Settings"/> 
+                 <Header header ="Settings" onPressShoping={navigateToShopingScreen} onPressDrawer={navigateToSideScreen}/> 
             
             </View>           
             <Text style ={styles.title}>Account</Text>
@@ -36,7 +43,7 @@ function Setting(){
                 <Image style={styles.icon2} source ={{uri:"https://cdn-icons-png.flaticon.com/128/2989/2989988.png"}} />
             </TouchableOpacity>
 
-            <TouchableOpacity style ={styles.account}>
+            <TouchableOpacity style ={styles.account} onPress={navigateToOnBoardingScreen}>
                 <Image style={styles.icon} source ={{uri:"https://cdn-icons-png.flaticon.com/128/3596/3596141.png"}} />
                 <Text>  Sign Out                    </Text>
                 <Image style={styles.icon2} source ={{uri:"https://cdn-icons-png.flaticon.com/128/2989/2989988.png"}} />

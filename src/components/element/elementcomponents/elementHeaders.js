@@ -1,8 +1,8 @@
 import { Text,TouchableOpacity ,StyleSheet} from "react-native";
 import React from "react";
-export default function elementHeaders({header}){
+export default function elementHeaders({header,onPress}){
     return(
-        <TouchableOpacity style ={styles.container}>
+        <TouchableOpacity style ={styles.container} onPress ={onPress}>
             <Text style ={styles.title}>{header}</Text>
         </TouchableOpacity>
     )

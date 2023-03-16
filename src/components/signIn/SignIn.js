@@ -9,8 +9,8 @@ const image ={uri:"https://images.unsplash.com/photo-1621091211034-53136cc1eb32?
   
 export default function SignIn({navigation}){
 
-    const [userName,setUserName] =useState("afsdf")
-    const [password,setPassword] =useState("123214")
+    const [userName,setUserName] =useState()
+    const [password,setPassword] =useState()
 
 
         function navigateToMainScreen(){

@@ -46,8 +46,9 @@ marginLeft:7,
         fontWeight:'300',
     },
     notification:{
-        paddingVertical:10,
-        flexDirection:'column',
+        paddingVertical: 10,
+        alignItems: 'center',
+        width: '22%'
     },
     imageNotification:{
         marginLeft:30,

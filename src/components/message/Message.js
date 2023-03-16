@@ -9,8 +9,18 @@ import MessageAvatar from './componentsM/messageAvatar'
 import MessageBox from './componentsM/messageBox'
 const image ={uri:"https://i.hizliresim.com/6ep42tk.png"}
 
-function Message(){
+function Message({navigation}){
    
+    function navigateToSideScreen(){
+        navigation.navigate("SideScreen")
+     }
+    function navigateToShopingScreen(){
+        navigation.navigate("ShopingScreen")
+     }
+  
+
+
+
     const renderMessageData =({item}) =><MessageAvatar  {...item}/>
     const renderMessageBoxData =({item}) =><MessageBox {...item}/>
     return(
@@ -19,7 +29,7 @@ function Message(){
             <View style ={styles.container}>
                 <View style ={{flex:1,height:200,}}>
 
-            <Header header ="Messages"/>
+            <Header header ="Messages"onPressShoping={navigateToShopingScreen} onPressDrawer={navigateToSideScreen}/>
                 </View>
             
                 </View>

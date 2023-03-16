@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Park Avenue",
+    "location": "New York",
+    "review": 78,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2R1Y3R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Rodeo Drive",
+    "location": "Los Angeles",
+    "review": 93,
+    "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZHVjdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Oxford Street",
+    "location": "London",
+    "review": 85,
+    "imageUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2R1Y3R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Shibuya Crossing",
+    "location": "Tokyo",
+    "review": 89,
+    "imageUrl": "https://images.unsplash.com/photo-1543512214-318c7553f230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2R1Y3R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 5,
+    "name": "La Rambla",
+    "location": "Barcelona",
+    "review": 76,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+  }
+]
